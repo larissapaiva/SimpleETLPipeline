@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-SimpleETLPipeline é um projeto Python que implementa um processo ETL (Extração, Transformação e Carga) para manipulação e transferência de dados utilizando Flask, SQLAlchemy e Marshmallow. O projeto inclui endpoints para operações CRUD em uma entidade de livro, além de configuração básica de servidor e banco de dados.
+ETLPipeline é um projeto Python que implementa um processo ETL para manipulação e transferência de dados utilizando Flask, SQLAlchemy e Marshmallow. O projeto inclui endpoints para operações CRUD em uma entidade de livro, além de configuração básica de servidor e banco de dados.
 
 ### Descrição dos Arquivos e Pastas
 
