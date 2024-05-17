@@ -84,7 +84,3 @@ curl -X POST "http://0.0.0.0:5000/books" -H "Content-Type: application/json" -d 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests no repositório para sugestões de melhorias ou correções de bugs.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
